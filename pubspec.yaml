@@ -22,3 +22,16 @@ flutter:
 
   assets:
     - images/Brandon.png
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+
+
+
+
